@@ -1,102 +1,74 @@
 <h1 align="center">Hi 👋, I'm Muhammed Shan</h1>
-
-<h3 align="center">🚀 DevOps Engineer | AWS | CI/CD | Docker | Monitoring & Automation</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=DevOps+Engineer;AWS+Cloud+Specialist;CI/CD+Automation;Monitoring+%26+Reliability;Building+Scalable+Systems" />
-</p>
+<h3 align="center">DevOps Engineer | AWS | CI/CD | Docker | Microservices | Observability</h3>
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=muhammedsha77&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</p>
+## 🚀 About Me
 
----
+I design and deploy **production-style cloud infrastructure and DevOps systems** using AWS.
 
-## 🧠 About Me
-
-```bash
-whoami
-```
-
-I build scalable and reliable cloud systems using AWS and DevOps tools.
-
-* 🔧 AWS | Docker | CI/CD pipelines
-* 📊 Monitoring & alerting systems
-* 🚀 Production-ready deployments
-* 🧠 Focus: Reliability, scalability, automation
+- 🔧 Experience with **CI/CD pipelines, Dockerized applications, and AWS infrastructure**
+- 📊 Built **monitoring, alerting, and auto-recovery systems**
+- ⚙️ Focused on **scalability, reliability, and automation**
+- 🚀 Hands-on with **real-world production deployments**
 
 ---
 
 ## 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,docker,linux,github,git,python" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Cloud-AWS-orange?style=for-the-badge&logo=amazon-aws" />
-  <img src="https://img.shields.io/badge/Container-Docker-blue?style=for-the-badge&logo=docker" />
-  <img src="https://img.shields.io/badge/CI/CD-Automation-green?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Monitoring-CloudWatch-yellow?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/System-Linux-black?style=for-the-badge&logo=linux" />
-</p>
+- **Cloud:** AWS (EC2, VPC, RDS, Lambda, CloudWatch, IAM)
+- **CI/CD:** GitLab CI/CD, GitHub Actions
+- **Containers:** Docker, Kubernetes
+- **IaC:** Terraform, CloudFormation
+- **Monitoring:** CloudWatch
+- **OS:** Linux
+- **Scripting:** Bash, Python
 
 ---
 
 ## 🔥 Featured Projects
 
-### 🚨 AWS Monitoring & Alerting System
+### 🚨 AWS Observability & Incident Management System
 
-* Real-time EC2 CPU monitoring using CloudWatch
-* Alarm triggers + email alerts via SNS
-* Built for production observability
+Production-style monitoring and auto-recovery system
 
----
-
-### 💰 AWS Cost Monitoring System
-
-* Serverless architecture using Lambda
-* Cost Explorer API integration
-* Budget alerts to prevent overspending
+- Designed event-driven architecture:
+  **EC2 → CloudWatch → SNS → Lambda → Auto-recovery**
+- Implemented **automatic EC2 recovery using Lambda**
+- Configured **CloudWatch alarms for real-time monitoring**
+- Built **alerting system using SNS (email notifications)**
+- Added **cost monitoring workflow using EventBridge + Cost Explorer**
 
 ---
 
 ### ⚙️ Microservices Deployment on AWS
 
-* Docker-based architecture
-* CI/CD pipeline integration
-* Async communication with RabbitMQ
+- Deployed **3-service microservices architecture using Docker**
+- Implemented **RabbitMQ for async communication**
+- Configured **AWS RDS databases per service**
+- Used **Nginx reverse proxy for routing**
+- Built **CI/CD pipelines using GitLab**
 
 ---
 
-## 📊 GitHub Analytics
+### 🌐 AWS Production-Grade Architecture
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=muhammedsha77&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammedsha77&theme=tokyonight" />
-</p>
+- Designed **multi-AZ VPC with public/private subnets**
+- Implemented **ALB, Auto Scaling, NAT Gateway**
+- Secured infrastructure using **bastion host access**
+- Built **highly available and scalable system**
 
 ---
 
-## 📫 Connect with Me
+## 📊 GitHub Stats
 
-<p align="center">
-  <a href="https://linkedin.com/in/<your-link>">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="https://github.com/muhammedsha77">
-    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github" />
-  </a>
-</p>
+(keep your stats here)
 
 ---
 
-## ⚡ Fun Fact
+## 📫 Connect
+
+LinkedIn: (PUT YOUR REAL LINK HERE)
 
 ```bash
 echo "I turn ideas into scalable systems 🚀"
